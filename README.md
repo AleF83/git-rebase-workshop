@@ -16,6 +16,14 @@ So, the developer that wants to merge their changes into the default branch firs
 ## After Rebase
 <img src="imgs/rebase.svg" alt="Merge" width="500" />
 
+
+## Merging feature branches to the default branch
+<img src="imgs/default-branch-after-merge.png" alt="Merging feature branches to the default branch" width="500">
+
+
+## Rebasing feature branch on Github
+<img src="imgs/rebasing-feature-branch.png" alt="Rebasing feature branch on Github" width="500">
+
 # Rebase Props and Cons
  
 - Prop: The PR is tidier and contains only relevant to the work on the feature commits.
